@@ -230,7 +230,7 @@ public class createAccountpage extends JFrame {
 		getContentPane().add(id);
 		
 		JLabel label = new JLabel("");
-		label.setIcon(new ImageIcon("/home/saroj/Pictures/attendanceworks3.png"));
+		label.setIcon(new ImageIcon("/home/ronisha/Pictures/attendanceworks3.png"));
 		label.setBorder(new LineBorder(Color.DARK_GRAY, 1, true));
 		label.setBounds(0, 0, 570, 360);
 		getContentPane().add(label);
