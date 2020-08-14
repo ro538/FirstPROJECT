@@ -130,13 +130,13 @@ public class formdesign extends JFrame {
 		contentPane.add(btnNewButton_1);
 		
 		JLabel label = new JLabel("");
-		label.setIcon(new ImageIcon("/home/saroj/Pictures/logindesign"));
+		label.setIcon(new ImageIcon("/home/ronisha/Pictures/logindesign"));
 		label.setBounds(-11, -19, 781, 320);
 		contentPane.add(label);
 		
 		JLabel label_1 = new JLabel("");
 		label_1.setBounds(12, 23, 77, 37);
-		label_1.setIcon(new ImageIcon(new ImageIcon("/home/saroj/Pictures/index.png").getImage().getScaledInstance(label_1.getWidth(),label_1 .getHeight(),Image.SCALE_DEFAULT)));
+		label_1.setIcon(new ImageIcon(new ImageIcon("/home/ronisha/Pictures/index.png").getImage().getScaledInstance(label_1.getWidth(),label_1 .getHeight(),Image.SCALE_DEFAULT)));
 	
 	    contentPane.add(label_1);
 		
